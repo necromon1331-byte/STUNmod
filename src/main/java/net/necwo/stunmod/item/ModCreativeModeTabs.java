@@ -20,6 +20,7 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.AMETHYST_GEM.get());
                         output.accept(ModItems.PEARL_GEM.get());
+                        output.accept(ModItems.PERIDOT_GEM.get());
 
 
                     }).build());

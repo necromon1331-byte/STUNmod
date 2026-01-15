@@ -15,6 +15,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> AMETHYST_GEM = ITEMS.register("amethyst_gem",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> PERIDOT_GEM = ITEMS.register("peridot_gem",
+            () -> new Item(new Item.Properties()));
 
 
     public static void register(IEventBus eventBus) {
