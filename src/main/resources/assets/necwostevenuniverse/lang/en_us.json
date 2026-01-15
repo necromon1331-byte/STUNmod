@@ -1,4 +1,10 @@
 {
   "item.necwostevenuniverse.pearl_gem": "Pearl Gem",
-  "item.necwostevenuniverse.amethyst_gem": "Amethyst Gem"
+  "item.necwostevenuniverse.amethyst_gem": "Amethyst Gem",
+
+  "block.necwostevenuniverse.amethyst_block": "Block of Amethyst",
+
+
+  "creativetab.necwostevenuniverse.gem_items": "Gem Items",
+  "creativetab.necwostevenuniverse.gem_block": "Gem Blocks"
 }
