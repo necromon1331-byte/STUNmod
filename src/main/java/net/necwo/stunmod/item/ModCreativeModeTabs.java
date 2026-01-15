@@ -19,6 +19,7 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativetab.necwostevenuniverse.gem_items"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.AMETHYST_GEM.get());
+                        output.accept(ModItems.BISMUTH_GEM.get());
                         output.accept(ModItems.PEARL_GEM.get());
                         output.accept(ModItems.PERIDOT_GEM.get());
 

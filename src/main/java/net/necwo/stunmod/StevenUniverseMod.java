@@ -60,6 +60,9 @@ public class StevenUniverseMod {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.PERIDOT_GEM);
         }
+        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItems.BISMUTH_GEM);
+        }
 
         if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS){
             event.accept(ModBlocks.AMETHYST_BLOCK);
