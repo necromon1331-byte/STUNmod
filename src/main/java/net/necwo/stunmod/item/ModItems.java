@@ -19,6 +19,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> BISMUTH_GEM = ITEMS.register("bismuth_gem",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> OPAL_GEM = ITEMS.register("opal_gem",
+            () -> new Item(new Item.Properties()));
 
 
 
